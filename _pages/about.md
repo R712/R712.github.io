@@ -1,15 +1,21 @@
 ---
 layout: post
-title: "About"
-author: "Chester"
+title: "Ahreum Han is_"
+author: "Ahreum Han"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+코드를 짝사랑하는 UI/UX 디자이너 한아름입니다.
+디자인이 코드로 만져지는 것이 좋아서 18년째 기웃대고 있습니다.
+고양이들에게 얹혀 삽니다.
+OS X와 Windows 둘 다 좋아해요.
+Photoshop과 많이 멀어졌습니다.
+Sketch와 Figma를 좋아합니다.
+시안 없이 코드로 작성하며 디자인을 테스트하는 것이 제일 신이 납니다.
+음악 많이 듣습니다.
+무언가를 분실하는 일이 잦습니다.
+불면과 폭면을 오가는 바이오리듬입니다.
+지병때문에 생활리듬이 규칙적이지 않습니다.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
-
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
-
-Thanks for reading!
+## 머릿속
+고양이, 코드, 디자인, 만화, SF, 꽃이 자주 만개했다 지길 반복, 새로운 기계 영입, 소품, 빈티지
