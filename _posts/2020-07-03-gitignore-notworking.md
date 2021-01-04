@@ -1,7 +1,8 @@
 ---
-layout: post
 title: ".gitignore가 일해주지 않을 때"
-author: "Ahreum Han"
+date: 2020-07-03 00:00:00 +09:00
+layout: post
+author: Ahreum Han
 ---
 
 git repository를 옮기는 상황이 생겼다.

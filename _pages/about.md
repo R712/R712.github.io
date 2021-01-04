@@ -1,8 +1,8 @@
 ---
+title: Ahreum Han is_
+permalink: "/about/"
 layout: post
-title: "Ahreum Han is_"
-author: "Ahreum Han"
-permalink: /about/
+author: Ahreum Han
 ---
 
 코드를 짝사랑하는 UI/UX 디자이너 한아름입니다.
